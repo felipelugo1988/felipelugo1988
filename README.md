@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Lugo</h1>
-<h3 align="center">A passionate learner frontend developer from Mexico</h3>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipelugo1988&label=Profile%20views&color=0e75b6&style=flat" alt="felipelugo1988" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipelugo1988" alt="felipelugo1988" /></a> </p>
 
-- 🌱 I’m currently learning **React JS and Python**
+- 🌱 I’m currently working on projects **React JS and Python**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT AND REACT JS**
 
